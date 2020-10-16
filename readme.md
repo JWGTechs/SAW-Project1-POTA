@@ -1,3 +1,8 @@
+# Continuation on this project on my own. Because I think its very useful and cool.
+
+
+
+
 # Project One: Real-Time Monitoring and Messaging
 
 ## Due by Thursday, October 1, 2020
